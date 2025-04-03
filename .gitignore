@@ -1,0 +1,7 @@
+# file nascosti del mac
+.DS_STORE
+.env
+.ipynb_checkpoints
+__pycache__
+.idea
+corso_langchain
