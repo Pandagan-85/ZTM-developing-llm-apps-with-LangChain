@@ -5,7 +5,8 @@ Questo repository contiene i progetti e gli esercizi svolti durante il corso [Le
 ## Descrizione
 
 Questo corso mi ha permesso di imparare come costruire applicazioni di AI utilizzando LangChain e Pinecone, concentrandomi sullo sviluppo di applicazioni di Retrieval Augmented Generation (RAG) e sistemi basati su LLM con accesso a conoscenze esterne.
-Competenze acquisite
+
+## Competenze acquisite
 
 - Utilizzo di LangChain per la creazione di applicazioni basate su LLM
 - Implementazione di database vettoriali con Pinecone
